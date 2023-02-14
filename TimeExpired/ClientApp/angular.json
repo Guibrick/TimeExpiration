@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "TimeExpired"
+  "defaultProject": "TimeExpired",
+  "cli": {
+    "analytics": false
+  }
 }
